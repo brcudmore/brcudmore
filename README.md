@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome to my GitHub profile! 👋
 
-<!--
-**brcudmore/brcudmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer, medical physics assistant, and indie video game developer based in Charlottetown, PEI.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+
+- 🔭 **Professionally**: I'm focused on optimizing radiation oncology machine QA processes through Python automation. My work involves handling DICOM images, integrating APIs, and performing data analytics.
+
+- 🎮 **For fun**: I'm developing video games using GDScript in the Godot engine. My projects often feature procedural generation, colourful art, and cozy exploration elements.
+
+
+### 📚 What I'm Interested In
+
+- 🌱 Continuously expanding my skills in **Python**, **MATLAB**, and **SQL** to drive automation and improve data management.
+
+- 🤖 Exploring the world of Machine learning.
